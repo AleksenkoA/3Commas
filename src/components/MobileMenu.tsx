@@ -51,7 +51,7 @@ const MobileMenu: FC<MobileMenuProps> = ({
       </div>
       <div className="flex w-full justify-between py-4">
         <button className="bg-black text-white px-6 py-2">Register</button>
-        <button className="border border-black px-6 py-2">Sign in</button>
+        <button className="border border-black px-6 py-2">Sign In</button>
       </div>
     </div>
   );
